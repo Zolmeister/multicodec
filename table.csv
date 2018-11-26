@@ -2,6 +2,7 @@ codec,              description,              code
 
 miscellaneous,,
 raw,                raw binary,               0x55
+path,               string path,              0x2f
 
 bases encodings,,
 identity,           raw binary,               NUL
